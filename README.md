@@ -1,6 +1,6 @@
 <!-- Banner con presentación -->
 <h1 align="center">👋 ¡Hola! Soy Leandro Martínez</h1>
-<h3 align="center">Desarrollador en formación • Analista en TI • Apasionado por C#, OOP y Automatización</h3>
+<h3 align="center">Desarrollador en formación • Analista en TI en ORT • Apasionado por C#, OOP y Automatización / IA</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Analista en Tecnologías de la Información (ORT Uruguay)** actualmente cursando el **2.º semestre**, con foco en:
+Soy estudiante de **Analista en Tecnologías de la Información (ORT Uruguay)** actualmente cursando el **3.º semestre**, con foco en:
 
 - Programación en **C# (.NET)**  
 - **POO**, herencia, polimorfismo y abstracción  
@@ -27,7 +27,7 @@ Me gusta crear proyectos prácticos, aprender nuevas herramientas y construir so
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Tecnologías & Herramientas que utilizo
 
 <p align="left">
   <!-- Lenguajes -->
@@ -58,12 +58,6 @@ Sistema de gestión con usuarios, equipos, gastos, pagos, herencia, polimorfismo
 
 ---
 
-### 🔹 **Learning ATO — Quiz App (JS)**
-Proyecto personal basado en cuestionarios interactivos.  
-**Tecnologías:** JavaScript, HTML, CSS, lógica de estados, navegación.
-
----
-
 ### 🔹 **Automatización masiva con n8n**
 Workflow que gestiona y procesa miles de hojas de cálculo dinámicas usando IA para clasificación.  
 **Tecnologías:** n8n, API, automatización de documentos.
@@ -72,7 +66,7 @@ Workflow que gestiona y procesa miles de hojas de cálculo dinámicas usando IA 
 
 ### 🔹 **E-commerce (WordPress + WooCommerce)**
 Sitio real de ventas con productos, variaciones, plugins, manejo de inventario y automatización.  
-**Tecnologías:** WordPress, WooCommerce, integraciones externas.
+**Tecnologías:** WordPress, WooCommerce, Pugins, integraciones externas.
 
 ---
 
@@ -85,13 +79,14 @@ Sitio real de ventas con productos, variaciones, plugins, manejo de inventario y
 - Modelo-vista-controlador (MVC)  
 - SQL & diseño de bases de datos  
 - Entornos virtuales y despliegue  
-- Desarrollo front-end
+- Desarrollo front-end y back-end
 
 📌 Además cursos por mi cuenta en:
-- Automatización (n8n)  
-- JavaScript  
-- WordPress avanzado  
+- Automatización (n8n)
+- JavaScript
+- WordPress avanzado
 - Git / GitHub
+- Python (Reflex)
 
 ---
 
@@ -120,4 +115,4 @@ Sitio real de ventas con productos, variaciones, plugins, manejo de inventario y
 
 ---
 
-### ⭐ *Gracias por visitar mi perfil. Estoy en constante aprendizaje y abierto a nuevas oportunidades como Trainee o Junior Developer.*
+### ⭐ *Gracias por visitar mi perfil. Estoy en constante aprendizaje y abierto a nuevas oportunidades como Junior Developer.*

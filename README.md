@@ -90,15 +90,6 @@ Sitio real de ventas con productos, variaciones, plugins, manejo de inventario y
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandmartine&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandmartine&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Contacto
 
 <p align="center">

@@ -1,5 +1,5 @@
 <!-- Banner con presentación -->
-<h1 align="center">👋 ¡Hola! Soy Leandro Martínez</h1>
+<h1 align="center">👋 ¡Hola! Soy Leandro Emanuel Martinez</h1>
 <h3 align="center">Desarrollador en formación • Analista en TI en ORT • Apasionado por C#, OOP y Automatización / IA</h3>
 
 <p align="center">

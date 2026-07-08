@@ -35,11 +35,11 @@ Me gusta crear proyectos prácticos, aprender nuevas herramientas y construir so
   <br/>
 
   <!-- Bases de datos -->
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
   <br/>
 
   <!-- Herramientas -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,wordpress,rider" />
   <br/>
 
   <!-- Otros -->

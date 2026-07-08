@@ -35,7 +35,7 @@ Me gusta crear proyectos prácticos, aprender nuevas herramientas y construir so
   <br/>
 
   <!-- Bases de datos -->
-  <img src="https://skillicons.dev/icons?i=sql,mysql" />
+  <img src="https://skillicons.dev/icons?i=sqllite,mysql" />
   <br/>
 
   <!-- Herramientas -->

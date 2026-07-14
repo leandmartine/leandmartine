@@ -88,7 +88,6 @@ Me llevo bien con **C# / .NET** (APIs, MVC, EF Core). Me gusta automatizar opera
 <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Sheets" />
 <img src="https://img.shields.io/badge/WordPress_%2F_Woo-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WP" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge" alt="Framer" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 
 </div>
 

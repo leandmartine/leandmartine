@@ -84,7 +84,6 @@ Me llevo bien con **C# / .NET** (APIs, MVC, EF Core). Me gusta automatizar opera
 
 <img src="https://img.shields.io/badge/ASP.NET_Core-MVC_%2F_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
 <img src="https://img.shields.io/badge/EF_Core-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="EF Core" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge" alt="TanStack" />
 <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge" alt="n8n" />
 <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Sheets" />
 <img src="https://img.shields.io/badge/WordPress_%2F_Woo-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WP" />

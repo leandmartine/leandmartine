@@ -40,30 +40,13 @@ Soy **Leandro Emanuel Martinez**, estudiante de **Analista en Tecnologías de la
 
 Me llevo bien con **C# / .NET** (APIs, MVC, EF Core). Me gusta automatizar operaciones de negocio con **n8n** y aplicar **IA** cuando suma valor real (ranking, clasificación, asistencia).
 
-<table>
-  <tr>
-    <td width="50%">
-
-### 💡 Lo que aporto
-- Apps full stack **mobile-first** listas para producción  
-- Modelado de dominio con **POO** y reglas de negocio  
-- Integraciones: **Sheets · Telegram · APIs · Auth · RLS**  
-- Documentación clara y deploys (Vercel, Somee, Railway)  
-- Enfoque producto: freelancers, e-commerce, ops, agencias  
-
-    </td>
-    <td width="50%">
-
-### 🚀 Cómo trabajo
-- Aprendo rápido y cierro features de punta a punta  
-- Prefiero código **legible**, tipado y con UX cuidada  
-- Combino estudio formal (ORT) + proyectos reales  
-- Abierto a **full-time junior / pasantía / freelance**  
-- Comunicación en español · base de inglés técnico  
-
-    </td>
-  </tr>
-</table>
+| 💡 Lo que aporto | 🚀 Cómo trabajo |
+|---|---|
+| Apps full stack **mobile-first** listas para producción | Aprendo rápido y cierro features de punta a punta |
+| Modelado de dominio con **POO** y reglas de negocio | Prefiero código **legible**, tipado y con UX cuidada |
+| Integraciones: **Sheets · Telegram · APIs · Auth · RLS** | Combino estudio formal (ORT) + proyectos reales |
+| Documentación clara y deploys (Vercel, Somee, Railway) | Abierto a **full-time junior / pasantía / freelance** |
+| Enfoque producto: freelancers, e-commerce, ops, agencias | Comunicación en español · base de inglés técnico |
 
 ---
 
@@ -97,40 +80,30 @@ Me llevo bien con **C# / .NET** (APIs, MVC, EF Core). Me gusta automatizar opera
 
 > Productos reales + proyectos académicos con valor técnico. Los privados se describen sin exponer código.
 
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🔭 StellarMinds
+### 🔭 StellarMinds · `obligatorio-p3-apirest`
 ![Public](https://img.shields.io/badge/Public-22c55e?style=flat-square)
 ![C#](https://img.shields.io/badge/C%23_.NET-512BD4?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square)
 
-Proyecto final de **Desarrollo Web Asistido con IA** (ORT).  
-Gestión de observatorio: usuarios, equipos, préstamos, observaciones y evaluación equipo/objeto con **Google Gemini**.
+Proyecto final de **Desarrollo Web Asistido con IA** (ORT). Gestión de observatorio: usuarios, equipos, préstamos, observaciones y evaluación equipo/objeto con **Google Gemini**.
 
 **Stack:** API REST + MVC · SQL Server · deploy Somee  
-🔗 [github.com/leandmartine/StellarMinds](https://github.com/leandmartine/StellarMinds)
+🔗 [github.com/leandmartine/obligatorio-p3-apirest](https://github.com/leandmartine/obligatorio-p3-apirest)
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### 💼 JoBO
 ![Private](https://img.shields.io/badge/Private-6b7280?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Vibe_coding-Claude_Code-D97706?style=flat-square)
 
-SaaS dual (candidatos + empresas) de búsqueda laboral con IA.  
-Analiza CV, rastrea portales y rankea ofertas con **score de compatibilidad**. MVP UY/AR.
+SaaS dual (candidatos + empresas) de búsqueda laboral con IA. Analiza CV, rastrea portales y rankea ofertas con **score de compatibilidad**. MVP UY/AR.
 
 **Stack:** Next.js · FastAPI · Supabase (pgvector) · Vercel · Railway  
+**Cómo se construyó:** vibe coding con **Claude Code**.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 🌸 Mi Empresa · Freelancer
 ![Public](https://img.shields.io/badge/Public-22c55e?style=flat-square)
@@ -139,11 +112,10 @@ Analiza CV, rastrea portales y rankea ofertas con **score de compatibilidad**. M
 
 Panel de horas y proyectos para independientes: registro táctil, métricas, empresas/proyectos, notas y **sync a Sheets**. UX mobile-first.
 
-**Stack:** Next.js · TanStack Query · Supabase RLS · Recharts · Vercel  
+**Stack:** Next.js · Supabase RLS · Recharts · Vercel  
 🔗 [mi-empresa-freelancer](https://github.com/leandmartine/mi-empresa-freelancer)
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### 🖤 ByMik · Pedidos
 ![Public](https://img.shields.io/badge/Public-22c55e?style=flat-square)
@@ -154,66 +126,38 @@ Gestión para emprendimiento de cosméticos: pedidos con estados, stock, cliente
 **Stack:** Next.js · Supabase · Framer Motion · Recharts  
 🔗 [gestion_bymik](https://github.com/leandmartine/gestion_bymik)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 🚕 AdminUber
 ![Private](https://img.shields.io/badge/Private-6b7280?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Vibe_coding-Claude_Code-D97706?style=flat-square)
 
-Portal ops para transporte unipersonal (Uber/Cabify UY). **Sheets como BD**, monorepo, automatizaciones n8n + Telegram. Fase 2: Expo.
+Portal ops para transporte unipersonal (Uber/Cabify UY). **Sheets como BD**, monorepo, automatizaciones n8n + Telegram.
 
 **Stack:** Next.js monorepo · Sheets API · n8n (NAS) · Vercel  
+**Cómo se construyó:** vibe coding con **Claude Code**.
 
-    </td>
-    <td width="50%" valign="top">
-
-### 📊 MODO Analytics
-![Private](https://img.shields.io/badge/Private-6b7280?style=flat-square)
-![NextAuth](https://img.shields.io/badge/NextAuth-black?style=flat-square)
-
-Analytics interno de redes para agencia **MODO**: marcas, fechas, gráficos, export CSV/Excel, integraciones Meta/IG/LinkedIn/TikTok.
-
-**Stack:** Next.js · Supabase · NextAuth (Google Workspace) · Vercel  
-
-    </td>
-  </tr>
-</table>
+---
 
 <details>
   <summary><strong>🎓 Más proyectos académicos & utilidades</strong> (click para expandir)</summary>
 
-  <br/>
+<br/>
 
-  | Proyecto | Qué resuelve | Stack | Link |
-  |---|---|---|---|
-  | **csharp-oop-obligatorio** | Gestión de pagos: herencia, polimorfismo, validaciones, consola + web | C#, POO, MVC | [Repo](https://github.com/leandmartine/csharp-oop-obligatorio) |
-  | **GestionDePagos** | Expense Manager monorepo: dominio, casos de uso, EF Core | C#, .NET, SQL Server | [Repo](https://github.com/leandmartine/GestionDePagos) |
-  | **js-oop-obligatorio-p1** | Obligatorio POO en JS | JavaScript | [Repo](https://github.com/leandmartine/js-oop-obligatorio-p1) |
-  | **tallerDespliegueAppsWeb** | Despliegue de apps web | JavaScript | [Repo](https://github.com/leandmartine/tallerDespliegueAppsWeb) |
-  | **ecommerce-tejidos-fdl** | Home e-commerce de tejidos | CSS / front | [Repo](https://github.com/leandmartine/ecommerce-tejidos-fdl-home-page) |
-  | **WordPress + WooCommerce** | Tienda real: catálogo, variaciones, inventario | WordPress | Producción |
-  | **Automatización n8n** | Procesamiento masivo de hojas + clasificación con IA | n8n, APIs | Interno |
-  | **Claude Usage Bar** | App nativa macOS: límites de uso de Claude en menubar | Swift | Local |
+| Proyecto | Qué resuelve | Stack | Link |
+|---|---|---|---|
+| **obligatorio-p2-csharp-oop** | Gestión de pagos: herencia, polimorfismo, validaciones, consola + web | C#, POO, MVC | [Repo](https://github.com/leandmartine/obligatorio-p2-csharp-oop) |
+| **GestionDePagos** | Expense Manager monorepo: dominio, casos de uso, EF Core | C#, .NET, SQL Server | [Repo](https://github.com/leandmartine/GestionDePagos) |
+| **obligatorio-p1-js** | Obligatorio POO en JS | JavaScript | [Repo](https://github.com/leandmartine/obligatorio-p1-js) |
+| **tallerDespliegueAppsWeb** | Despliegue de apps web | JavaScript | [Repo](https://github.com/leandmartine/tallerDespliegueAppsWeb) |
+| **ecommerce-tejidos-fdl-home-page** | Home e-commerce de tejidos | CSS / front | [Repo](https://github.com/leandmartine/ecommerce-tejidos-fdl-home-page) |
+| **WordPress + WooCommerce** | Tienda real: catálogo, variaciones, inventario | WordPress | Producción |
+| **Automatización n8n** | Procesamiento masivo de hojas + clasificación con IA | n8n, APIs | Interno |
+| **Claude Usage Bar** | App nativa macOS: límites de uso de Claude en menubar | Swift | Local |
 
 </details>
-
----
-
-## 🗺️ En qué me estoy enfocando
-
-```text
-┌────────────────────┬────────────────────────────────────────────────┐
-│ Full stack web     │  Next.js · TypeScript · Supabase · Tailwind    │
-│ Backend .NET       │  C# · ASP.NET Core · EF Core · SQL Server      │
-│ Automatización     │  n8n · Google Sheets · Telegram · webhooks     │
-│ IA aplicada        │  Gemini · Claude · ranking · workflows         │
-│ Producto real      │  paneles · SaaS · e-commerce · ops de negocio  │
-└────────────────────┴────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -230,38 +174,6 @@ Analytics interno de redes para agencia **MODO**: marcas, fechas, gráficos, exp
 </div>
 
 **También por mi cuenta:** n8n, JS/TS moderno, WordPress avanzado, Git/GitHub, Python (FastAPI), Swift macOS, diseño de UX mobile-first.
-
----
-
-## 📈 Stats en vivo
-
-<div align="center">
-
-  <!-- Stats + lenguajes (servicios validados en 2026) -->
-  <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/leandmartine?cardType=github&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/leandmartine?cardType=languages&theme=tokyonight" alt="Top Languages" />
-
-  <br/>
-
-  <!-- Streak animado -->
-  <img src="https://streak-stats.demolab.com?user=leandmartine&theme=tokyonight&hide_border=true&background=0D1117&ring=89B4FA&fire=F9E2AF&currStreakLabel=89B4FA" alt="GitHub Streak" />
-
-  <br/>
-
-  <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leandmartine&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=89B4FA&line=cba6f7&point=F9E2AF" alt="Activity Graph" width="100%" />
-
-  <br/>
-
-  <!-- Calendario de contribuciones -->
-  <img src="https://ghchart.rshah.org/89b4fa/leandmartine" alt="GitHub Contribution Chart" width="100%" />
-
-  <br/>
-
-  <!-- Widget de perfil -->
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=leandmartine&data=followers,repositories,stars,commits&theme=tokyonight" alt="Profile widget" />
-
-</div>
 
 ---
 
@@ -289,5 +201,32 @@ Estoy buscando oportunidades como **Junior Developer / Full Stack Junior**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ⭐ *Gracias por llegar hasta acá. Si te interesa mi perfil, hablamos.*
+
+</div>
+
+---
+
+## 📈 Stats en vivo
+
+<div align="center">
+
+  <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/leandmartine?cardType=github&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/leandmartine?cardType=languages&theme=tokyonight" alt="Top Languages" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=leandmartine&theme=tokyonight&hide_border=true&background=0D1117&ring=89B4FA&fire=F9E2AF&currStreakLabel=89B4FA" alt="GitHub Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leandmartine&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=89B4FA&line=cba6f7&point=F9E2AF" alt="Activity Graph" width="100%" />
+
+  <br/>
+
+  <img src="https://ghchart.rshah.org/89b4fa/leandmartine" alt="GitHub Contribution Chart" width="100%" />
+
+  <br/>
+
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=leandmartine&data=followers,repositories,stars,commits&theme=tokyonight" alt="Profile widget" />
 
 </div>

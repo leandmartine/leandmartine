@@ -38,7 +38,7 @@
 
 Soy **Leandro Emanuel Martinez**, estudiante de **Analista en Tecnologías de la Información (ATI · ORT Uruguay · 4.º semestre)** y desarrollador junior que **construye productos usables**, no solo demos de curso.
 
-Me muevo cómodo entre **C# / .NET** (APIs, MVC, EF Core) y el stack moderno de web (**Next.js · TypeScript · Supabase**). Me gusta automatizar operaciones de negocio con **n8n** y aplicar **IA** cuando suma valor real (ranking, clasificación, asistencia).
+Me llevo bien con **C# / .NET** (APIs, MVC, EF Core). Me gusta automatizar operaciones de negocio con **n8n** y aplicar **IA** cuando suma valor real (ranking, clasificación, asistencia).
 
 <table>
   <tr>

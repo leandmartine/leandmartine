@@ -9,11 +9,10 @@
 
   <h1>👋 Hola, soy Leandro Emanuel Martinez</h1>
   <h3>Full Stack Junior · C# / .NET · Next.js · Automatización e IA</h3>
-  <p><em>Construyo productos reales · Open to Work · Uruguay</em></p>
 
   <p>
     <img src="https://img.shields.io/badge/🟢_Open_to_Work-Junior_Developer-22c55e?style=for-the-badge&labelColor=1e1e2e" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/📍_Uruguay-ORT_3er_semestre-89b4fa?style=for-the-badge&labelColor=1e1e2e" alt="Location" />
+    <img src="https://img.shields.io/badge/📍_Uruguay-ATI_4to_semestre-89b4fa?style=for-the-badge&labelColor=1e1e2e" alt="Location" />
     <img src="https://img.shields.io/badge/🎯_Focus-Web_+_APIs_+_Automation_+_IA-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="Focus" />
   </p>
 
@@ -37,7 +36,7 @@
 
 ## 👋 Sobre mí
 
-Soy **Leandro Emanuel Martinez**, estudiante de **Analista en Tecnologías de la Información (ORT Uruguay · 3.º semestre)** y desarrollador junior que **construye productos usables**, no solo demos de curso.
+Soy **Leandro Emanuel Martinez**, estudiante de **Analista en Tecnologías de la Información (ATI · ORT Uruguay · 4.º semestre)** y desarrollador junior que **construye productos usables**, no solo demos de curso.
 
 Me muevo cómodo entre **C# / .NET** (APIs, MVC, EF Core) y el stack moderno de web (**Next.js · TypeScript · Supabase**). Me gusta automatizar operaciones de negocio con **n8n** y aplicar **IA** cuando suma valor real (ranking, clasificación, asistencia).
 
@@ -227,7 +226,7 @@ Analytics interno de redes para agencia **MODO**: marcas, fechas, gráficos, exp
 | | |
 |:--|:--|
 | 🎓 | **Analista en Tecnologías de la Información — Universidad ORT Uruguay** |
-| 📆 | **2024 – actualidad** · 3.º semestre |
+| 📆 | **2024 – actualidad** · ATI 4.º semestre |
 | 🧠 | POO · MVC · APIs · SQL · Front/Back · Deploy · Automatización · IA |
 
 </div>

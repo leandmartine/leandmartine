@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
   <h1>👋 Hola, soy Leandro Emanuel Martinez</h1>
-  <h3>Full Stack Junior · C# / .NET · Next.js · Automatización e IA</h3>
+  <h3>Full Stack Junior · C# / .NET · Automatización e IA</h3>
 
   <p>
     <img src="https://img.shields.io/badge/🟢_Open_to_Work-Junior_Developer-22c55e?style=for-the-badge&labelColor=1e1e2e" alt="Open to Work" />
@@ -72,10 +72,10 @@ Me muevo cómodo entre **C# / .NET** (APIs, MVC, EF Core) y el stack moderno de 
 <div align="center">
 
 ### Lenguajes
-<img src="https://skillicons.dev/icons?i=cs,ts,js,python,html,css,swift&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cs,ts,js,java,html,css&theme=dark" alt="Languages" />
 
 ### Frameworks & runtime
-<img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,nodejs,fastapi,tailwind&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,tailwind&theme=dark" alt="Frameworks" />
 
 ### Datos, cloud & tooling
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite,git,github,vercel,vscode,visualstudio,rider&theme=dark" alt="Tools" />

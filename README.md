@@ -5,38 +5,29 @@
 
 <div align="center">
 
-  <!-- Animated line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-  <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=leandmartine&style=for-the-badge&color=89b4fa&label=PROFILE+VIEWS" alt="Profile views" />
+  <h1>👋 Hola, soy Leandro Emanuel Martinez</h1>
+  <h3>Full Stack Junior · C# / .NET · Next.js · Automatización e IA</h3>
+  <p><em>Construyo productos reales · Open to Work · Uruguay</em></p>
 
-  <br/><br/>
+  <p>
+    <img src="https://img.shields.io/badge/🟢_Open_to_Work-Junior_Developer-22c55e?style=for-the-badge&labelColor=1e1e2e" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/📍_Uruguay-ORT_3er_semestre-89b4fa?style=for-the-badge&labelColor=1e1e2e" alt="Location" />
+    <img src="https://img.shields.io/badge/🎯_Focus-Web_+_APIs_+_Automation_+_IA-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="Focus" />
+  </p>
 
-  <!-- Typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=89B4FA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=Hola%2C+soy+Leandro+%F0%9F%91%8B;Full+Stack+Junior+%7C+C%23+%26+Next.js;Construyo+productos+reales+con+IA;Open+to+Work+%C2%B7+Uruguay" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Status badges -->
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-Junior_Developer-22c55e?style=for-the-badge&labelColor=1e1e2e" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/📍_Uruguay-ORT_3er_semestre-89b4fa?style=for-the-badge&labelColor=1e1e2e" alt="Location" />
-  <img src="https://img.shields.io/badge/🎯_Focus-Web_+_APIs_+_Automation_+_IA-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="Focus" />
-
-  <br/><br/>
-
-  <!-- Quick contact -->
-  <a href="mailto:leandromartinez38@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-leandromartinez38@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/leandmartine/">
-    <img src="https://img.shields.io/badge/LinkedIn-leandmartine-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/leandmartine">
-    <img src="https://img.shields.io/badge/GitHub-leandmartine-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <p>
+    <a href="mailto:leandromartinez38@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-leandromartinez38@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/leandmartine/">
+      <img src="https://img.shields.io/badge/LinkedIn-leandmartine-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/leandmartine">
+      <img src="https://img.shields.io/badge/GitHub-leandmartine-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 

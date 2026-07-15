@@ -114,6 +114,7 @@ Panel de horas y proyectos para independientes: registro táctil, métricas, emp
 
 **Stack:** Next.js · Supabase RLS · Recharts · Vercel  
 🔗 [mi-empresa-freelancer](https://github.com/leandmartine/mi-empresa-freelancer)
+**Cómo se construyó:** vibe coding con **Claude Code**.
 
 ---
 
@@ -125,6 +126,7 @@ Gestión para emprendimiento de cosméticos: pedidos con estados, stock, cliente
 
 **Stack:** Next.js · Supabase · Framer Motion · Recharts  
 🔗 [gestion_bymik](https://github.com/leandmartine/gestion_bymik)
+**Cómo se construyó:** vibe coding con **Claude Code**.
 
 ---
 
